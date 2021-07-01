@@ -1,0 +1,33 @@
+body{
+	background-color: #C0FEFC;
+	font-family: 'Poppins', sans-serif;
+}
+h1{
+	color: #04009A;
+	text-align: center;
+	text-decoration: underline;
+}
+#container{
+	background-color: #3EDBF0;
+	border: 5px solid #04009A;
+	height: 275px;
+	width: 750px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#btn{
+	margin: 50 px auto;
+	height: 50 px;
+	width: 250 px;
+	font-size: 22px;
+	background-color: #77ACF1;
+
+}
+
+#output{
+	margin: 25px auto;
+	font-size: 26px;
+	font-style: italic;
+	color: white;
+}
